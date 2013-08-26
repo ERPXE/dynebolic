@@ -1,0 +1,5 @@
+.:
+dynebolic.menu
+filelist.txt
+initrd.img
+vmlinuz
